@@ -195,3 +195,4 @@ for i in range(10):
     print("Explicação minimal para a entrada {}:".format(i), minexp)
 
 # ------------------------------- Fim -------------------------------
+# %%
